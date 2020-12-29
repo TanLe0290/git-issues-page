@@ -1,0 +1,35 @@
+{
+  "name": "github-issues-page",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@reduxjs/toolkit": "1.4.0",
+    "api": "2.3.3",
+    "axios": "0.20.0",
+    "firebase": "7.24.0",
+    "knex": "0.21.6",
+    "parse-link-header": "1.0.1",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-redux": "7.2.1",
+    "react-scripts": "3.0.1",
+    "src": "1.1.2"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
